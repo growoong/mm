@@ -1,0 +1,13 @@
+[
+{
+"title1": "테스트 성공!",
+"subtitle1": "JSON 연결이 정상적으로 작동해요",
+"category1": "테스트",
+"bubbletext11": "잘 들어왔어요!",
+"titletext11": "첫 번째 속지 테스트",
+"text11": "이 문장이 보이면 Data Populator가 정상 작동하는 상태예요.",
+"last-title1": "마지막 장 테스트",
+"dm-w1": "테스트",
+"dm-text1": "DM 안내 문구 테스트입니다."
+}
+]
